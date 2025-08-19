@@ -14,13 +14,13 @@ const Content = (props) => {
     <>
       <h2>komponentti Content</h2>
       <p>
-        {props.part1} {props.exercises1}
+        - {props.part1} {props.exercises1}
       </p>
       <p>
-        {props.part2} {props.exercises2}
+        - {props.part2} {props.exercises2}
       </p>
       <p>
-        {props.part3} {props.exercises3}
+        - {props.part3} {props.exercises3}
       </p>
     </>
   );
