@@ -69,7 +69,7 @@ const App = () => {
       </p>
 
       <hr />
-      <h1>2. Sovellus purettuna komonentteihin Heading, Content ja Total</h1>
+      <h1>2. Sovellus purettuna komponentteihin Heading, Content ja Total</h1>
       <Header course={course} />
       <Content parts={course.parts} />
       <Total parts={course.parts} />
