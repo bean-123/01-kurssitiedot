@@ -9,6 +9,11 @@ focusing on React state management and debugging.
 
 - 1.3–1.5: More complex state updates and object handling.
 
+## ⚙️ Prerequisites
+
+- Node.js (v18+ recommended)
+- npm (comes with Node.js)
+
 ## 🚀 Usage
 
 ```
