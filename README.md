@@ -16,7 +16,7 @@ focusing on React state management and debugging.
 
 ## 🚀 Usage
 
-```
+```bash
 git clone https://github.com/bean-123/01-kurssitiedot
 cd kurssitiedot
 npm install
